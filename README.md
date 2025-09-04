@@ -1,25 +1,39 @@
+# 👋 Hello, I'm Kunal  
 
-# Hello, I'm Kunal Kumawat 👋
-I'm a passionate data professional with a strong focus on Data Science and Data Analytics. I love transforming raw data into meaningful insights and using my skills to solve real-world problems.
+🚀 Passionate about **Data Science** & **Data Analytics** | 💻 Open Source Contributor  
 
-I'm also an active open-source contributor and enjoy collaborating with the community to build useful tools and contribute to impactful projects.
+---
 
-📈 My Interests & Skills
-Data Science & Analytics: I'm experienced in data cleaning, exploratory data analysis (EDA), statistical modeling, and machine learning.
+## 🌟 About Me  
+- 🎓 Aspiring Data Scientist with a strong foundation in Computer Science.  
+- 📊 Love working with **data, algorithms, and insights** to solve real-world problems.  
+- 🌱 Currently exploring **Machine Learning, Deep Learning, and Big Data** tools.  
+- 🤝 Active **Open Source Contributor** and community learner.  
+- ✨ Always curious about new technologies and problem-solving.  
 
-Programming Languages: Python, R
+---
 
-Libraries & Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
+## 🛠️ Tech Stack  
+- **Languages:** Python | SQL | C++ | R  
+- **Data Science:** Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn  
+- **Machine Learning / AI:** TensorFlow | PyTorch | NLP | Computer Vision  
+- **Databases:** MySQL | PostgreSQL | MongoDB  
+- **Tools & Platforms:** Git | GitHub | Jupyter | VS Code | Google Colab  
 
-Databases: SQL
+---
 
-Data Visualization: Creating compelling and clear visualizations to tell a data-driven story.
+## 📈 GitHub Stats  
 
-🤝 Let's Connect
-GitHub: github.com/kunal-19k
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal-19k&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-19k&layout=compact&theme=radical)  
 
-Portfolio/Website: (Add a link to your portfolio or professional website here)
+---
 
-LinkedIn: (Add a link to your LinkedIn profile here)
+## 🌍 Connect With Me  
+- 📧 Email: **your-email@example.com**  
+- 💼 LinkedIn: [linkedin.com/in/kunal](https://linkedin.com/in/kunal)  
+- 🐦 Twitter: [twitter.com/kunal](https://twitter.com/kunal)  
 
-Feel free to connect with me! I'm always open to discussing new projects, interesting data challenges, or just chatting about the world of tech and data.
+---
+
+⭐️ From [kunal-19k](https://github.com/kunal-19k)  
